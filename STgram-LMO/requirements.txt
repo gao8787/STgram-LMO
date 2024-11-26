@@ -1,0 +1,12 @@
+numpy==1.21.0
+visdom
+joblib
+librosa
+tqdm==4.48.2
+matplotlib
+scikit-learn
+pyyaml
+torch==1.8.0
+torchvision==0.9.0
+torchaudio==0.8.0
+tensorboard
